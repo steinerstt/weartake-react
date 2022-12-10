@@ -77,18 +77,13 @@ $ npm run dev
 
 ![Home](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-react/home.jpg?raw=true)
 
-<br>
-
 ![Carrinho vazio](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-react/home-cart-empty.jpg?raw=true)
-
-<br>
 
 ![Carrinho com produtos](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-react/home-cart-products.jpg?raw=true)
 
-<br>
-
 ![Página do produto](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-react/page-product.jpg?raw=true)
 
+![Rota que não existe](https://github.com/steinerstt/screenshots-projects/blob/main/weartake-react/404.jpg?raw=true)
 
 <br>
 
